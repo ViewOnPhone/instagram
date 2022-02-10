@@ -1,11 +1,9 @@
-*{
-    border: dotted red 1px;
-}
+
 body{
     background-color: black;
 }
 .post{
-    height: 500px;
+    height: auto;
     width: 400px;
     background-color: white;
     margin: auto;
@@ -29,4 +27,14 @@ width: 100%;
 }
 .fa-bookmark{
     margin-left: auto;
+}
+.icons{
+    display: flex;
+    margin-bottom: 5px;
+}
+p{
+    font-size: small;
+}
+.header{
+    padding: 5px;
 }
