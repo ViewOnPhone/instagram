@@ -1,0 +1,32 @@
+*{
+    border: dotted red 1px;
+}
+body{
+    background-color: black;
+}
+.post{
+    height: 500px;
+    width: 400px;
+    background-color: white;
+    margin: auto;
+}
+.top-left{
+    display: flex;
+}
+h5{
+    padding: none;
+    margin:0px;
+}
+p{
+    margin: 0px;
+}
+.fa-ellipsis-v{
+    margin-left: auto;
+}
+img{
+object-fit: contain;
+width: 100%;
+}
+.fa-bookmark{
+    margin-left: auto;
+}
